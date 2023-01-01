@@ -1,4 +1,8 @@
-# child_sensor_app
+## child-sensor-app
+A mobile app for sensing weights and pinging notifications. A two-part system.
+
+# Language
+Created in Flutter/Dart. Will recieve input via bluetooth and will send a notification to the user 
 
 A new Flutter project.
 
