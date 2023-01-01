@@ -1,0 +1,10 @@
+# Overarching Todos
+  1. Create UI for phone app 
+  2. Implement optional login system
+  3. Implement bluetooth connection functionality
+  4. Implement main app functionality:
+    - Given a steam of data from bluetooth, decide what to do with the information
+    - Decide when to send notification to phone, and implement the ability to turn off the notification
+  5. Create a backend ? (maybe if needed)
+
+# Specific Todos (incomplete)
